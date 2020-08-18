@@ -37,7 +37,7 @@ I am a third Year Information Technology Student at Maharaja Agrasen Institute o
 
 ----
 
-Currently listening to :
+**Currently listening to :**
 <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" align="right" width="35">
 
 
