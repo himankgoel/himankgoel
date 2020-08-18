@@ -21,6 +21,14 @@ I am a third Year Information Technology Student at Maharaja Agrasen Institute o
 |---|---|---|---|---|---|
 
 ----
+<img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" width="35">
+####Currently listening to..
+
+
+
+
+
+----
 
 #### <img src="https://cdn.dribbble.com/users/180787/screenshots/2007980/responsive_stats.gif" width="200" align="center" margin="50%">  
 ###How about some stats ?
