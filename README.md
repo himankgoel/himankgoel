@@ -36,8 +36,10 @@ I am a third Year Information Technology Student at Maharaja Agrasen Institute o
 <br />
 
 ----
+
+Currently listening to :
 <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" align="right" width="35">
-#### Currently listening to..
+
 
 <a href="https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc?highlight=spotify:track:2b8fOow8UzyDFAE27YhOZM">
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Maroon_5_-_Memories.png" height="90" alt="Memories by Maroon 5">
