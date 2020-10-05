@@ -10,7 +10,7 @@
   
 I am a third Year Information Technology Student at Maharaja Agrasen Institute of Technology,Delhi,India :india: . I love Data Structures & Algo and have been learning Web Development. 
 
-- 🔭 I’m currently working on building **Text Editor** of my own.
+- 🔭 I’m currently working on building **Weather App** of my own.
 - 🌱 I’m currently learning Data Structures | Full Stack Web development | Android App Development | Browser Automation
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
